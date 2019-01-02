@@ -4,3 +4,5 @@ function admin(req, res, next) {
 }
 
 module.exports = admin;
+
+// export vidly_jwtPrivateKey=mySecureKey

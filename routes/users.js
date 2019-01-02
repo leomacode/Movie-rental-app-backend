@@ -22,7 +22,7 @@ router.post("/", async (req, res) => {
   let { name, password, email } = req.body;
 
   let user = await User.findOne({ email: email });
-  if (user) return res.status(400).send("Use already registered.");
+  if (user) return res.status(400).send("User already registered.");
 
   const salt = await bcrypt.genSalt(10);
   password = await bcrypt.hash(password, salt);
@@ -39,6 +39,7 @@ router.post("/", async (req, res) => {
 
   res
     .header("x-auth-token", token)
+    .header("access-control-expose-headers", "x-auth-token")
     .send(_.pick(user, ["_id", "name", "email"]));
 });
 
