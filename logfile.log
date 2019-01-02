@@ -703,3 +703,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/Vidly","timestamp":"2018-12-18T09:51:16.218Z"}
 {"level":"info","message":"listening to port: 3900","timestamp":"2018-12-29T10:20:16.237Z"}
 {"level":"info","message":"Connected to mongodb://localhost/Vidly","timestamp":"2018-12-29T10:20:16.860Z"}
+{"level":"info","message":"listening to port: 3900","timestamp":"2019-01-02T19:59:22.553Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly","timestamp":"2019-01-02T19:59:22.601Z"}
