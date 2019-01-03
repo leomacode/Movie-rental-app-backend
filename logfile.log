@@ -705,3 +705,13 @@
 {"level":"info","message":"Connected to mongodb://localhost/Vidly","timestamp":"2018-12-29T10:20:16.860Z"}
 {"level":"info","message":"listening to port: 3900","timestamp":"2019-01-02T19:59:22.553Z"}
 {"level":"info","message":"Connected to mongodb://localhost/Vidly","timestamp":"2019-01-02T19:59:22.601Z"}
+{"level":"info","message":"listening to port: 3900","timestamp":"2019-01-02T23:28:36.903Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly","timestamp":"2019-01-02T23:28:37.476Z"}
+{"level":"info","message":"listening to port: 3900","timestamp":"2019-01-02T23:31:16.609Z"}
+{"level":"info","message":"Connected to mongodb://vidly123:vidly123@ds147734.mlab.com:47734/vidly_full_app","timestamp":"2019-01-02T23:31:16.926Z"}
+{"level":"info","message":"listening to port: 3900","timestamp":"2019-01-02T23:34:32.062Z"}
+{"level":"info","message":"listening to port: 3900","timestamp":"2019-01-02T23:35:35.853Z"}
+{"level":"info","message":"listening to port: 3900","timestamp":"2019-01-02T23:36:42.124Z"}
+{"level":"info","message":"Connected to mongodb://vidly123:vidly123@ds030827.mlab.com:30827/vidly_deployment","timestamp":"2019-01-02T23:36:43.196Z"}
+{"level":"info","message":"listening to port: 3900","timestamp":"2019-01-03T09:08:54.402Z"}
+{"level":"info","message":"Connected to mongodb://vidly123:vidly123@ds030827.mlab.com:30827/vidly_deployment","timestamp":"2019-01-03T09:08:55.298Z"}

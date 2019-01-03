@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "mySecureKey",
-  "db": "mongodb://localhost/Vidly"
+  "db": "mongodb://vidly123:vidly123@ds030827.mlab.com:30827/vidly_deployment"
 }
